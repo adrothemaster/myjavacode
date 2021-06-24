@@ -13,7 +13,7 @@ public class ROFLCopter {
             System.out.println("               I    I         ");
             System.out.println("           --------------/            ");
             System.out.println("                             ");
-            System.out.println("           Adrien's ROFLCOPTER            ");
+            System.out.println("          Adrien's ROFLCOPTER            ");
 
 
 
@@ -26,7 +26,7 @@ public class ROFLCopter {
             System.out.println("               I    I         ");
             System.out.println("           --------------/            ");
             System.out.println("                             ");
-            System.out.println("           Adrien's ROFLCOPTER            ");
+            System.out.println("          Adrien's ROFLCOPTER            ");
         }
 
     }
